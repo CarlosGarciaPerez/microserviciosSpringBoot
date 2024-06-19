@@ -1,4 +1,4 @@
-Proyecto con 3 Microservicios :
-  inventory-service
-  orders-service
+Proyecto con 3 Microservicios (Spring Boot) :
+  inventory-service,
+  orders-service, 
   products-service
